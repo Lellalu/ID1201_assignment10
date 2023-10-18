@@ -17,7 +17,7 @@ public class ZipBetter{
     }
 
     Node[] data;
-    private final int SIZE = 10000;
+    private final int SIZE = 29000;
 
     public ZipBetter(String file){
         data = new Node[SIZE];
